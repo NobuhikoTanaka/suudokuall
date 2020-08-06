@@ -1,0 +1,115 @@
+One_Kennsaku jj = 2 kk = 7 work = 2
+One_Kennsaku jj = 1 kk = 7 work = 6
+kuuhaku_Kennsaku
+kuuhaku_Kennsaku loop SShin = 1 jj = 1 kk = 1 work[rr] = 1 UBack[SShin+1, 0] Back= 1 UBack[SShin+1, 1] XBack= 1
+kuuhaku_Kennsaku loop SShin = 2 jj = 1 kk = 1 work[rr] = 2 UBack[SShin+1, 0] Back= 1 UBack[SShin+1, 1] XBack= 1
+kuuhaku_Kennsaku loop SShin = 3 jj = 1 kk = 1 work[rr] = 3 UBack[SShin+1, 0] Back= 1 UBack[SShin+1, 1] XBack= 1
+kuuhaku_Kennsaku loop SShin = 4 jj = 1 kk = 1 work[rr] = 5 UBack[SShin+1, 0] Back= 1 UBack[SShin+1, 1] XBack= 1
+One_Kennsaku jj = 1 kk = 8 work = 8
+One_Kennsaku jj = 4 kk = 8 work = 3
+kuuhaku_Kennsaku
+kuuhaku_Kennsaku loop SShin = 5 jj = 1 kk = 2 work[rr] = 1 UBack[SShin+1, 0] Back= 4 UBack[SShin+1, 1] XBack= 2
+kuuhaku_Kennsaku loop SShin = 6 jj = 1 kk = 2 work[rr] = 3 UBack[SShin+1, 0] Back= 4 UBack[SShin+1, 1] XBack= 2
+One_Kennsaku jj = 1 kk = 3 work = 2
+One_Kennsaku jj = 1 kk = 5 work = 4
+One_Kennsaku jj = 2 kk = 3 work = 8
+One_Kennsaku jj = 2 kk = 6 work = 3
+One_Kennsaku jj = 2 kk = 4 work = 5
+One_Kennsaku jj = 3 kk = 2 work = 1
+One_Kennsaku jj = 3 kk = 4 work = 8
+One_Kennsaku jj = 3 kk = 5 work = 2
+One_Kennsaku jj = 5 kk = 6 work = 6
+One_Kennsaku jj = 5 kk = 4 work = 3
+One_Kennsaku jj = 5 kk = 3 work = 5
+One_Kennsaku jj = 4 kk = 2 work = 6
+One_Kennsaku jj = 4 kk = 3 work = 9
+One_Kennsaku jj = 4 kk = 1 work = 4
+One_Kennsaku jj = 4 kk = 7 work = 1
+One_Kennsaku jj = 4 kk = 9 work = 8
+One_Kennsaku jj = 4 kk = 5 work = 5
+One_Kennsaku jj = 5 kk = 2 work = 7
+One_Kennsaku jj = 5 kk = 7 work = 4
+One_Kennsaku jj = 5 kk = 8 work = 2
+One_Kennsaku jj = 6 kk = 5 work = 8
+One_Kennsaku jj = 6 kk = 8 work = 7
+One_Kennsaku jj = 3 kk = 8 work = 5
+One_Kennsaku jj = 6 kk = 9 work = 6
+One_Kennsaku jj = 7 kk = 2 work = 8
+One_Kennsaku jj = 7 kk = 8 work = 9
+One_Kennsaku jj = 8 kk = 4 work = 1
+One_Kennsaku jj = 8 kk = 6 work = 2
+One_Kennsaku jj = 8 kk = 9 work = 5
+One_Kennsaku jj = 9 kk = 4 work = 6
+One_Kennsaku jj = 9 kk = 3 work = 3
+One_Kennsaku jj = 7 kk = 1 work = 1
+One_Kennsaku jj = 7 kk = 3 work = 6
+One_Kennsaku jj = 8 kk = 1 work = 9
+One_Kennsaku jj = 8 kk = 5 work = 3
+One_Kennsaku jj = 7 kk = 5 work = 7
+One_Kennsaku jj = 7 kk = 7 work = 3
+One_Kennsaku jj = 7 kk = 9 work = 2
+One_Kennsaku jj = 9 kk = 5 work = 9
+One_Kennsaku jj = 9 kk = 6 work = 8
+One_Kennsaku jj = 9 kk = 7 work = 7
+One_Kennsaku jj = 9 kk = 9 work = 1
+kuuhaku_Kennsaku
+Undo_kennsaku Shin =6
+  Rc =3
+One_Kennsaku jj = 6 kk = 1 work = 2
+kuuhaku_Kennsaku
+kuuhaku_Kennsaku loop SShin = 7 jj = 1 kk = 2 work[rr] = 1 UBack[SShin+1, 0] Back= 6 UBack[SShin+1, 1] XBack= 3
+kuuhaku_Kennsaku loop SShin = 8 jj = 1 kk = 2 work[rr] = 5 UBack[SShin+1, 0] Back= 6 UBack[SShin+1, 1] XBack= 3
+kuuhaku_Kennsaku loop SShin = 9 jj = 1 kk = 2 work[rr] = 8 UBack[SShin+1, 0] Back= 6 UBack[SShin+1, 1] XBack= 3
+One_Kennsaku jj = 1 kk = 8 work = 5
+One_Kennsaku jj = 1 kk = 3 work = 2
+One_Kennsaku jj = 1 kk = 5 work = 4
+One_Kennsaku jj = 2 kk = 3 work = 5
+One_Kennsaku jj = 3 kk = 2 work = 1
+kuuhaku_Kennsaku
+Undo_kennsaku Shin =9
+  Rc =2
+One_Kennsaku jj = 6 kk = 1 work = 3
+One_Kennsaku jj = 6 kk = 5 work = 8
+kuuhaku_Kennsaku
+kuuhaku_Kennsaku loop SShin = 10 jj = 1 kk = 2 work[rr] = 1 UBack[SShin+1, 0] Back= 9 UBack[SShin+1, 1] XBack= 4
+kuuhaku_Kennsaku loop SShin = 11 jj = 1 kk = 2 work[rr] = 3 UBack[SShin+1, 0] Back= 9 UBack[SShin+1, 1] XBack= 4
+kuuhaku_Kennsaku loop SShin = 12 jj = 1 kk = 2 work[rr] = 5 UBack[SShin+1, 0] Back= 9 UBack[SShin+1, 1] XBack= 4
+kuuhaku_Kennsaku loop SShin = 13 jj = 1 kk = 2 work[rr] = 8 UBack[SShin+1, 0] Back= 9 UBack[SShin+1, 1] XBack= 4
+One_Kennsaku jj = 1 kk = 8 work = 5
+One_Kennsaku jj = 1 kk = 3 work = 3
+One_Kennsaku jj = 1 kk = 5 work = 4
+One_Kennsaku jj = 2 kk = 3 work = 5
+One_Kennsaku jj = 3 kk = 2 work = 1
+kuuhaku_Kennsaku
+Undo_kennsaku Shin =13
+  Rc =1
+kuuhaku_Kennsaku
+kuuhaku_Kennsaku loop SShin = 14 jj = 1 kk = 2 work[rr] = 3 UBack[SShin+1, 0] Back= 13 UBack[SShin+1, 1] XBack= 5
+kuuhaku_Kennsaku loop SShin = 15 jj = 1 kk = 2 work[rr] = 5 UBack[SShin+1, 0] Back= 13 UBack[SShin+1, 1] XBack= 5
+kuuhaku_Kennsaku loop SShin = 16 jj = 1 kk = 2 work[rr] = 8 UBack[SShin+1, 0] Back= 13 UBack[SShin+1, 1] XBack= 5
+One_Kennsaku jj = 1 kk = 8 work = 5
+One_Kennsaku jj = 3 kk = 2 work = 5
+One_Kennsaku jj = 2 kk = 3 work = 3
+One_Kennsaku jj = 1 kk = 3 work = 2
+One_Kennsaku jj = 2 kk = 6 work = 8
+One_Kennsaku jj = 2 kk = 4 work = 5
+One_Kennsaku jj = 3 kk = 4 work = 1
+One_Kennsaku jj = 3 kk = 5 work = 2
+One_Kennsaku jj = 8 kk = 4 work = 3
+One_Kennsaku jj = 5 kk = 4 work = 6
+One_Kennsaku jj = 5 kk = 3 work = 5
+One_Kennsaku jj = 5 kk = 6 work = 3
+One_Kennsaku jj = 5 kk = 2 work = 7
+One_Kennsaku jj = 5 kk = 7 work = 4
+One_Kennsaku jj = 5 kk = 8 work = 2
+One_Kennsaku jj = 6 kk = 5 work = 8
+One_Kennsaku jj = 4 kk = 5 work = 5
+One_Kennsaku jj = 8 kk = 5 work = 9
+One_Kennsaku jj = 7 kk = 5 work = 7
+One_Kennsaku jj = 8 kk = 1 work = 5
+One_Kennsaku jj = 9 kk = 4 work = 8
+kuuhaku_Kennsaku
+kuuhaku_Kennsaku loop SShin = 17 jj = 1 kk = 5 work[rr] = 3 UBack[SShin+1, 0] Back= 16 UBack[SShin+1, 1] XBack= 6
+kuuhaku_Kennsaku loop SShin = 18 jj = 1 kk = 5 work[rr] = 4 UBack[SShin+1, 0] Back= 16 UBack[SShin+1, 1] XBack= 6
+kuuhaku_Kennsaku
+Undo_kennsaku Shin =18
